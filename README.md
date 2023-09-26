@@ -61,3 +61,11 @@ Jangan lupa buat dengan gaya kamu ya agar hasilnya lebih personal dan menantang 
 
 Selamat ngoding dan ngedesain!
 
+
+# Sertifikat
+
+Kalau semua berjalan lancar kamu akan mendapatkan sertifikat seperti ini dengan ### Nama Kamu. dari freeCodeCamp. 
+
+
+![Sertifikat kamu](https://drive.google.com/file/d/1yTWrWABn8eOybJsnKFf-CPiNU9yX8qvq/view?usp=sharing)
+
