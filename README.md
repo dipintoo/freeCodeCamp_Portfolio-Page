@@ -8,7 +8,7 @@ Akhirnya kamu sampai di project pamungkas dalam perjalanan sertifikasi [Responsi
 
 ### Persiapan yang Dianjurkan
 
-Dengan semua project yang sudah berhasil kamu selesaika dan lolos pengujian sebelumnya, pastinya project terakhir ini bisa kamu selesaikan juga dengan baik dan cepat. Gabungkanlah semua pengetahuan dan konsep dasar yang sudah kamu terapkan sebelumnya untuk membangun project terakhir dalam course [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) freeCodeCamp! 
+Dengan semua project yang sudah berhasil kamu selesaikan dan lolos pengujian sebelumnya, pastinya project terakhir ini bisa kamu selesaikan juga dengan baik dan cepat. Gabungkanlah semua pengetahuan dan konsep dasar yang sudah kamu terapkan sebelumnya untuk membangun project terakhir dalam course [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) freeCodeCamp! 
 
 Sekarang... Ayo kita selesaikan!
 
