@@ -1,6 +1,6 @@
 # [5/5] Portfolio Page
 
-**Selamat datang di Portfolio Page Project!**. Akhirnya kamu sampai di project final dalam perjalanan sertifikasi [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) kamu. Tetap fokus dan semangat belajarnya karena selangkah lagi kamu akan meraih sertifikat Responsive Web Design dari freeCodeCamp!.
+**Selamat datang di Portfolio Page Project!**. Akhirnya kamu sampai di project final dalam perjalanan sertifikasi [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Tetap fokus dan semangat belajarnya karena selangkah lagi kamu akan meraih sertifikat Responsive Web Design dari freeCodeCamp!.
 
 ### Persiapan
 
