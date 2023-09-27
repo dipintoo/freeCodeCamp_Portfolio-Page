@@ -64,7 +64,7 @@ Selamat ngoding dan ngedesain!
 
 # Sertifikat
 
-Kalau semua berjalan lancar kamu akan mendapatkan sertifikat seperti ini dengan ### Nama Kamu. dari freeCodeCamp. 
+Kalau semua berjalan lancar kamu akan mendapatkan sertifikat seperti ini dengan **Nama Kamu**. dari freeCodeCamp. Selamat ya 🏆🏅
 
 
 ![Sertifikat kamu](https://github.com/dipintoo/freeCodeCamp_Portfolio-Page/blob/main/Sertifikat.png)
