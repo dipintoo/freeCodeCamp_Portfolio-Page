@@ -1,16 +1,12 @@
 # [5/5] Portfolio Page
 
-Selamat datang di Portfolio Page Project! Project ini harus memenuhi sejumlah User Stories yang telah ditentukan. Kamu bisa mengikuti langkah-langkah di bawah ini untuk memahami tugas dan tujuan dari project ini.
+**Selamat datang di Portfolio Page Project!**. Akhirnya kamu sampai di project final dalam perjalanan sertifikasi [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) kamu. Tetap fokus dan semangat belajarnya karena selangkah lagi kamu akan meraih sertifikat Responsive Web Design dari freeCodeCamp!.
 
-## Sertifikasi Responsive Web Design
+### Persiapan
 
-Akhirnya kamu sampai di project pamungkas dalam perjalanan sertifikasi [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) kamu. Tetap fokus dan semangat belajarnya karena selangkah lagi kamu akan meraih sertifikat Responsive Web Design dari freeCodeCamp!
+Dengan semua project yang sudah berhasil kamu selesaikan dan lolos pengujian sebelumnya, pastinya project terakhir ini bisa kamu selesaikan juga dengan baik dan cepat. Gabungkanlah semua pengetahuan dan konsep dasar HTML, CSS, dan responsif desain yang sudah kamu terapkan sebelumnya untuk membangun project final ini.
 
-### Persiapan yang Dianjurkan
-
-Dengan semua project yang sudah berhasil kamu selesaikan dan lolos pengujian sebelumnya, pastinya project terakhir ini bisa kamu selesaikan juga dengan baik dan cepat. Gabungkanlah semua pengetahuan dan konsep dasar yang sudah kamu terapkan sebelumnya untuk membangun project terakhir dalam course [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) freeCodeCamp! 
-
-Sekarang... Ayo kita selesaikan!
+Kamu Siap? Ayo kita selesaikan!
 
 ## User Stories
 
