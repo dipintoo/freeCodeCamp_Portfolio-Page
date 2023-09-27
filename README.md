@@ -64,7 +64,7 @@ Selamat ngoding dan ngedesain!
 
 # Sertifikat
 
-Kalau semua berjalan lancar kamu akan mendapatkan sertifikat seperti ini dengan **Nama Kamu**.  
+Jika semua berjalan lancar kamu akan mendapatkan sertifikat seperti ini dengan **Nama Kamu**.  
 
 **Selamat ya kamu** 🏆🏅
 
