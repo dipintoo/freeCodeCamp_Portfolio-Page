@@ -60,7 +60,7 @@ Selamat ngoding dan ngedesain!
 
 # Sertifikat
 
-Setelah berhasil menyelesaikan 5 project sertifikasi Back End Development and APIs, diantaranya:
+Setelah berhasil menyelesaikan 5 project sertifikasi Responsive Web Design, diantaranya:
 
 [***[1] Survey Form***](https://github.com/dipintoo/freeCodeCamp_Survey-Form) - [Live Demo](https://codepen.io/dipintoo/full/QWzMYGj)  
 [***[2] Tribute Page***](https://github.com/dipintoo/freeCodeCamp_Tribute-Page) - [Live Demo](https://codepen.io/dipintoo/live/NWeaxye)  
