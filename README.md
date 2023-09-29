@@ -1,6 +1,6 @@
 # [5/5] Portfolio Page
 
-**Selamat datang di Portfolio Page Project!**. Akhirnya kamu sampai di project final dalam perjalanan sertifikasi [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Tetap fokus dan semangat belajarnya karena selangkah lagi kamu akan meraih sertifikat Responsive Web Design dari freeCodeCamp!.
+**SELAMAT!** kamu sudah berhasil menyelesaikan project keempat [Product Landing Page](https://github.com/dipintoo/freeCodeCamp_Product-Landing-Page) dan akhirnya sekarang perjalanan kamu telah sampai ke project terakhir sehingga selangkah lagi kamu akan meraih sertifikat [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) dari freeCodeCamp!
 
 ### Persiapan
 
@@ -62,11 +62,11 @@ Selamat ngoding dan ngedesain!
 
 Setelah berhasil menyelesaikan 5 project sertifikasi Back End Development and APIs, diantaranya:
 
-[***[1] Survey Form***](https://github.com/dipintoo/freeCodeCamp_Survey-Form) - `[Live Demo](https://codepen.io/dipintoo/full/QWzMYGj)`  
-[***[2] Request Header Parser Microservice***](https://github.com/dipintoo/freeCodeCamp_Headers-Parser) - [Live Demo](https://freecodecampheaders-parser-microservice.dipintoo.repl.co/)  
-[***[3] URL Shortener Microservice***](https://github.com/dipintoo/freeCodeCamp_Url-Shortner) - [Live Demo](https://freecodecampurl-shortner.dipintoo.repl.co/)  
-[***[4] Exercise Tracker***](https://github.com/dipintoo/freeCodeCamp_Exercise-Tracker) - [Live Demo](https://freecodecampexercise-tracker.dipintoo.repl.co/)  
-[***[5] Metadata Microservice***](https://github.com/dipintoo/freeCodeCamp_Metadata) - [Live Demo](https://freecodecampmetadata-microservice.dipintoo.repl.co/)
+[***[1] Survey Form***](https://github.com/dipintoo/freeCodeCamp_Survey-Form) - [Live Demo](https://codepen.io/dipintoo/full/QWzMYGj)  
+[***[2] Tribute Page***](https://github.com/dipintoo/freeCodeCamp_Tribute-Page) - [Live Demo](https://codepen.io/dipintoo/live/NWeaxye)  
+[***[3] Technical Documentation***](https://github.com/dipintoo/freeCodeCamp_Technical-Documentation) - [Live Demo](https://codepen.io/dipintoo/full/poqWyBP)  
+[***[4] Product Landing Page***](https://github.com/dipintoo/freeCodeCamp_Product-Landing-Page) - [Live Demo](https://codepen.io/dipintoo/full/VwqrwqY)  
+[***[5] Portfolio Page***](https://github.com/dipintoo/freeCodeCamp_Portfolio-Page) - [Live Demo](https://codepen.io/dipintoo/full/PoXEWdP)
 
 kamu bisa langsung klaim sertifikatnya ke freeCodeCamp. Jika berhasil, kamu akan mendapatkan sertifikat seperti ini atas **Nama Kamu**.
 
