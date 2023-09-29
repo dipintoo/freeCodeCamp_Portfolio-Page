@@ -60,9 +60,17 @@ Selamat ngoding dan ngedesain!
 
 # Sertifikat
 
-Jika semua berjalan lancar kamu akan mendapatkan sertifikat seperti ini atas **Nama Kamu**.  
+Setelah berhasil menyelesaikan 5 project sertifikasi Back End Development and APIs, diantaranya:
 
-**Selamat ya kamu** 🏆🏅
+[***[1] Survey Form***](https://github.com/dipintoo/freeCodeCamp_Survey-Form) - `[Live Demo](https://codepen.io/dipintoo/full/QWzMYGj)`  
+[***[2] Request Header Parser Microservice***](https://github.com/dipintoo/freeCodeCamp_Headers-Parser) - [Live Demo](https://freecodecampheaders-parser-microservice.dipintoo.repl.co/)  
+[***[3] URL Shortener Microservice***](https://github.com/dipintoo/freeCodeCamp_Url-Shortner) - [Live Demo](https://freecodecampurl-shortner.dipintoo.repl.co/)  
+[***[4] Exercise Tracker***](https://github.com/dipintoo/freeCodeCamp_Exercise-Tracker) - [Live Demo](https://freecodecampexercise-tracker.dipintoo.repl.co/)  
+[***[5] Metadata Microservice***](https://github.com/dipintoo/freeCodeCamp_Metadata) - [Live Demo](https://freecodecampmetadata-microservice.dipintoo.repl.co/)
+
+kamu bisa langsung klaim sertifikatnya ke freeCodeCamp. Jika berhasil, kamu akan mendapatkan sertifikat seperti ini atas **Nama Kamu**.
+
+**Selamat ya kamu 🏆🏅**
 
 ![Sertifikat kamu](https://github.com/dipintoo/freeCodeCamp_Portfolio-Page/blob/main/Sertifikat.png)
 
