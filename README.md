@@ -68,7 +68,7 @@ Setelah berhasil menyelesaikan 5 project sertifikasi Responsive Web Design, dian
 [***[4] Product Landing Page***](https://github.com/dipintoo/freeCodeCamp_Product-Landing-Page) - [🔴 Live Demo](https://codepen.io/dipintoo/full/VwqrwqY)  
 [***[5] Portfolio Page***](https://github.com/dipintoo/freeCodeCamp_Portfolio-Page) - [🔴 Live Demo](https://codepen.io/dipintoo/full/PoXEWdP)
 
-kamu bisa langsung klaim sertifikatnya ke freeCodeCamp. Jika berhasil, kamu akan mendapatkan sertifikat seperti ini atas **Nama Kamu**.
+kamu bisa langsung klaim sertifikatnya ke freeCodeCamp. Jika berhasil, kamu akan mendapatkan [sertifikat kelulusan](https://www.freecodecamp.org/certification/dipintoo/responsive-web-design) seperti ini atas **Nama Kamu**.
 
 **Selamat ya kamu 🏆🏅**
 
